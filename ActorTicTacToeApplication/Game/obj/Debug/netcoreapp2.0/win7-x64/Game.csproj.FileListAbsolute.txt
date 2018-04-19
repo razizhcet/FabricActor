@@ -1,0 +1,17 @@
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.AssemblyInfoInputs.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.AssemblyInfo.cs
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.exe
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.deps.json
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.runtimeconfig.json
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.runtimeconfig.dev.json
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.pdb
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\bin\Debug\netcoreapp2.0\win7-x64\Game.Interfaces.pdb
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.csproj.CopyComplete
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Game\obj\Debug\netcoreapp2.0\win7-x64\Game.pdb

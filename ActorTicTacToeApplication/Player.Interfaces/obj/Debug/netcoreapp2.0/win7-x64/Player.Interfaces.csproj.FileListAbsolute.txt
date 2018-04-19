@@ -1,0 +1,9 @@
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.deps.json
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.pdb
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfoInputs.cache
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.AssemblyInfo.cs
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.dll
+E:\BizRun-Tech\FabricActor\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\Player.Interfaces.pdb
