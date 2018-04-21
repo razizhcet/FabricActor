@@ -1,0 +1,9 @@
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.deps.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb

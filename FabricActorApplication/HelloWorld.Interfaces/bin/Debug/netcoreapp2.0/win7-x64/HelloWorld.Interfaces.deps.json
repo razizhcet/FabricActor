@@ -1,0 +1,143 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0/win7-x64",
+    "signature": "fcc8d4aaf23dbe684ed89f57495c6714cf794529"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {},
+    ".NETCoreApp,Version=v2.0/win7-x64": {
+      "HelloWorld.Interfaces/1.0.0": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "6.1.480",
+          "Microsoft.ServiceFabric.Actors": "3.0.480",
+          "Microsoft.ServiceFabric.Data": "3.0.480",
+          "Microsoft.ServiceFabric.Services": "3.0.480"
+        },
+        "runtime": {
+          "HelloWorld.Interfaces.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric/6.1.480": {
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.Strings.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Internal.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Preview.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Management.ServiceModel.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.Strings.dll": {},
+          "runtimes/win/lib/netstandard2.0/System.Fabric.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Actors/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "3.0.480",
+          "Microsoft.ServiceFabric.Services.Remoting": "3.0.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Actors.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Data/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "6.1.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.Interfaces.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Data.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Diagnostics.Internal/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "6.1.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Diagnostics.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.FabricTransport.Internal/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric": "6.1.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.V2.dll": {},
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.FabricTransport.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Services/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Data": "3.0.480",
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "3.0.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Services.dll": {}
+        }
+      },
+      "Microsoft.ServiceFabric.Services.Remoting/3.0.480": {
+        "dependencies": {
+          "Microsoft.ServiceFabric.Diagnostics.Internal": "3.0.480",
+          "Microsoft.ServiceFabric.FabricTransport.Internal": "3.0.480",
+          "Microsoft.ServiceFabric.Services": "3.0.480"
+        },
+        "runtime": {
+          "runtimes/win/lib/netstandard2.0/Microsoft.ServiceFabric.Services.Remoting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloWorld.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.ServiceFabric/6.1.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WZqhHv3sgtkmgz6imfa58J6UOIqGHRjovHiC1TyBe21dIbn9r4QosnjnSYQnESbxKQ27D12kgwmgO3ohX1FEoQ==",
+      "path": "microsoft.servicefabric/6.1.480",
+      "hashPath": "microsoft.servicefabric.6.1.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Actors/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2alJc64ivQ+E8Qf5BX/ytcbRQ8VOBMtTy9hKdENLSRiBlM3GAz0b/6ao00VREoPuT1gYlLK2coei9ANcHBvC+w==",
+      "path": "microsoft.servicefabric.actors/3.0.480",
+      "hashPath": "microsoft.servicefabric.actors.3.0.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Data/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6xGX90T92U5bUf5zu+Ro2tBsWIgI1fQEv6me6U+z58yy1JeJ4Mn0Nu0FzMTl517wYFeEplu/8mg8WV7xqP2a3Q==",
+      "path": "microsoft.servicefabric.data/3.0.480",
+      "hashPath": "microsoft.servicefabric.data.3.0.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Diagnostics.Internal/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1KeN8lpOMfRtH1FVyULMErcxYooR/IBVcE02oizOkoQyM4D26+m/l1FIzXawE3cw7ZwmJqXt1bLLG9Co5u//7A==",
+      "path": "microsoft.servicefabric.diagnostics.internal/3.0.480",
+      "hashPath": "microsoft.servicefabric.diagnostics.internal.3.0.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.FabricTransport.Internal/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uasTPTjZPQ01fcYcRijPq4G3/VQDVn0I02lTY68CZ924yxML5cQOR5JhCkY92TpBiuBM7gs6i23LouPcJYGPkA==",
+      "path": "microsoft.servicefabric.fabrictransport.internal/3.0.480",
+      "hashPath": "microsoft.servicefabric.fabrictransport.internal.3.0.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KwGkrKez4fqzaTuzZDAOJ+cRUKECQ124gceSg0mk75MhofwUdKyDJeHJliMFnq5UYK9v6ktTLdQAP/m67iUP2w==",
+      "path": "microsoft.servicefabric.services/3.0.480",
+      "hashPath": "microsoft.servicefabric.services.3.0.480.nupkg.sha512"
+    },
+    "Microsoft.ServiceFabric.Services.Remoting/3.0.480": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mgDF9PWdHoL/U6z1Es7YmwZUSf/wAZa/UAj1hz0U+sIzVRN+Y1ksovMswl7OwCU2vPyWuoKOsLUFJz85f78YeQ==",
+      "path": "microsoft.servicefabric.services.remoting/3.0.480",
+      "hashPath": "microsoft.servicefabric.services.remoting.3.0.480.nupkg.sha512"
+    }
+  }
+}

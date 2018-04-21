@@ -1,0 +1,14 @@
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.deps.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.runtimeconfig.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.runtimeconfig.dev.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.AssemblyInfoInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.AssemblyInfo.cs
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.pdb
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.pdb
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csproj.CopyComplete
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.pdb

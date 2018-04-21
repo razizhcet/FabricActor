@@ -1,0 +1,17 @@
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csprojResolveAssemblyReference.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfo.cs
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.exe
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.deps.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.dev.json
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CopyComplete
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+E:\BizRun-Tech\FabricActor\FabricActorApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
